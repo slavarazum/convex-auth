@@ -17,3 +17,5 @@ minimumReleaseAgeExclude:
   - convex-test
   # Renovate security update: vitest@4.1.11
   - vitest@4.1.11
+  # Renovate security update: vite@8.1.6
+  - vite@8.1.6
